@@ -17,5 +17,5 @@ void ExampleSubsystem::Periodic() {
 
 void ExampleSubsystem::SimulationPeriodic() {
   // Implementation of subsystem simulation periodic method goes here.
-  exampleEntry.SetString("Hello World!");
+  exampleEntry.SetString("Howdy!");
 }
